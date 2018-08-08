@@ -1,0 +1,3 @@
+add_lunch_combo HUAWEI_HWMYA_L6737-eng
+add_lunch_combo HUAWEI_HWMYA_L6737-userdebug
+add_lunch_combo HUAWEI_HWMYA_L6737-user
